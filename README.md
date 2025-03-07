@@ -1,1 +1,1 @@
-# Ethiopian-MedicalData-Warehouse
+# ethiopian-medical-data-warehouse
